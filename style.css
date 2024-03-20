@@ -66,6 +66,7 @@ h1{
    column-rule: 1px solid;
    padding: 5px;
    background: linear-gradient(to right,red,green);
+   mix-blend-mode: hard-light;
 }
 #fifth{
     float: left;
@@ -75,4 +76,19 @@ h1{
     margin: 10px;
     padding: 5px;
     background: linear-gradient(to left, blue,green);
+    mix-blend-mode: screen;
+}
+#sixth{
+    float: left;
+    /* border: 1px solid; */
+    /* display: ; */
+}
+#Test{
+    float: left;
+    margin: 20px;
+}
+span{
+    
+    display: block;
+    /* visibility: hidden; */
 }
