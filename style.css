@@ -92,3 +92,23 @@ span{
     display: block;
     /* visibility: hidden; */
 }
+
+#Seventh{
+    clear: both;
+    /* border: 1px solid; */
+}
+#eight{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background: pink;
+    margin: 10px;
+    position: relative;
+    left: 100px;
+    /* top: 50px; */
+    
+
+}
+#nineth{
+    /* border: 1px solid; */
+}
